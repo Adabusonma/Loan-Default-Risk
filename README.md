@@ -3,7 +3,18 @@
 This project focuses on building a robust machine learning pipeline to predict the risk of loan default. The goal is to enable better credit decisions, minimize financial losses, and improve customer risk profiling.
 
 # Problem Statement
-Financial institutions face significant challenges with loan defaults, leading to revenue losses and increased risk exposure. By leveraging machine learning, this project aims to predict whether a customer is likely to default, helping institutions make informed lending decisions.
+Financial institutions face significant challenges with loan defaults, leading to revenue losses and increased risk exposure. By leveraging machine learning, this project aims to develop a robust machine learning pipeline to predict loan default risk, enabling better credit decisions and minimizing financial losses.
+
+# Our Aim:
+Utilize customer behavioral and financial data to build a predictive model, enhancing accuracy and efficiency in risk assessment.
+Business Goal:
+- Reduce loan defaults by flagging high-risk applicants.
+  
+Key Success Metrics:
+Precision-Recall AUC for imbalanced dataset performance.
+Recall at threshold to capture most defaulters.
+False Positive Rate minimization for better customer experience.
+
 
 # Dataset
 The dataset includes customer demographic and financial information, along with historical loan performance.

@@ -103,6 +103,7 @@ I trained and evaluated multiple models:
 
 I built a Streamlit web app: Loan Default Risk Predictor where users can enter borrower + loan details to get real-time risk predictions.
 It is fully deployed on Streamlit Cloud for easy public access and testing:
+https://adaeze-princess-loan-default-risk.streamlit.app/
 
 # Key Insights
 

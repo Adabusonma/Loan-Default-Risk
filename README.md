@@ -1,4 +1,4 @@
-Loan Default Risk Prediction 
+# Loan Default Risk Prediction 
 
 An end-to-end machine learning project that predicts whether a borrower will default on a loan. This project demonstrates how data science can be applied in financial risk management — from exploratory data analysis (EDA) and feature engineering to model building, evaluation, and deployment.
 

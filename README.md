@@ -29,26 +29,11 @@ The target variable is:
 
 I worked with three datasets provided as .csv files:
 
-- Performance Data (trainperf.csv
-)
+- Performance Data (trainperf.csv) which is the Loan performance records.
 
-Loan performance records
+- Demographics Data (traindemographics.csv)which is the borrower demographic details.
 
-Shape: 4,368 rows × 10 columns
-
-- Demographics Data (traindemographics.csv
-)
-
-Borrower demographic details
-
-Shape: 4,346 rows × 9 columns
-
-- Previous Loans Data (trainprevloans.csv
-)
-
-Historical borrowing behavior
-
-Shape: 18,183 rows × 12 columns
+- Previous Loans Data (trainprevloans.csv)which is the Historical borrowing behavior.
 
 ### Key Features:
 
